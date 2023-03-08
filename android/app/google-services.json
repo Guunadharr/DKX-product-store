@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1062516847998",
+    "project_id": "nvgair-9f61c",
+    "storage_bucket": "nvgair-9f61c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062516847998:android:ec2f1a0518d4dad26cef2f",
+        "android_client_info": {
+          "package_name": "com.nvg.dhanush.dk.meetair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062516847998-bfvf69jb89fcbhp50k7kpeb3ut2um06j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nvg.dhanush.dk.meetair",
+            "certificate_hash": "b6658ce3cb808540f7af499b79f310973cb0ccb7"
+          }
+        },
+        {
+          "client_id": "1062516847998-5cc2mbkbrtqauicl0p1off45mdrmamcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_glPjz1qONu3Q0o42SBMnYh_m4vNPmf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062516847998-5cc2mbkbrtqauicl0p1off45mdrmamcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
