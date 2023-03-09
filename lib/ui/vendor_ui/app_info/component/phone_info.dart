@@ -21,7 +21,7 @@ class PhoneInfoWidget extends StatelessWidget {
       },
       child: Container(
         padding: const EdgeInsets.symmetric(horizontal: 10.0, vertical: 8),
-        height: 40,
+        height: 45,
         decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(4),
           border: Border.all(
